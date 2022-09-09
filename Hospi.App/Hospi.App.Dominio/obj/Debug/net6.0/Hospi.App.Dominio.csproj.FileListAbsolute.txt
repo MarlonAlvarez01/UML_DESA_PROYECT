@@ -1,0 +1,12 @@
+C:\Hospitalizacion\Hospi.App\Hospi.App.Dominio\obj\Debug\net6.0\Hospi.App.Dominio.csproj.AssemblyReference.cache
+C:\Hospitalizacion\Hospi.App\Hospi.App.Dominio\obj\Debug\net6.0\Hospi.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Hospitalizacion\Hospi.App\Hospi.App.Dominio\obj\Debug\net6.0\Hospi.App.Dominio.AssemblyInfoInputs.cache
+C:\Hospitalizacion\Hospi.App\Hospi.App.Dominio\obj\Debug\net6.0\Hospi.App.Dominio.AssemblyInfo.cs
+C:\Hospitalizacion\Hospi.App\Hospi.App.Dominio\obj\Debug\net6.0\Hospi.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Hospitalizacion\Hospi.App\Hospi.App.Dominio\bin\Debug\net6.0\Hospi.App.Dominio.deps.json
+C:\Hospitalizacion\Hospi.App\Hospi.App.Dominio\bin\Debug\net6.0\Hospi.App.Dominio.dll
+C:\Hospitalizacion\Hospi.App\Hospi.App.Dominio\bin\Debug\net6.0\Hospi.App.Dominio.pdb
+C:\Hospitalizacion\Hospi.App\Hospi.App.Dominio\obj\Debug\net6.0\Hospi.App.Dominio.dll
+C:\Hospitalizacion\Hospi.App\Hospi.App.Dominio\obj\Debug\net6.0\refint\Hospi.App.Dominio.dll
+C:\Hospitalizacion\Hospi.App\Hospi.App.Dominio\obj\Debug\net6.0\Hospi.App.Dominio.pdb
+C:\Hospitalizacion\Hospi.App\Hospi.App.Dominio\obj\Debug\net6.0\ref\Hospi.App.Dominio.dll
