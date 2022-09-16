@@ -25,9 +25,11 @@ body{
 }
 
 .navbar .brand{
-    color: #fdf7f7;
+    color: #080808;
     margin-top: 10px;
 }
+/* Consultar*/
+
 
 /*distribuimos horizontalmente el menu*/
 .navbar .menu{
@@ -46,7 +48,7 @@ body{
     text-decoration: none;/*Desaparece la línea de por debajo*/
     margin-right: 3em;/*Separación de los menú*/
     font-size: 1.3em;/*Incrementa el tamaño de la letra*/
-    color: rgb(247, 243, 243); /*Color de la letra*/
+    color: rgb(5, 5, 5); /*Color de la letra*/
     font-weight: 200;/*resalta el texto*/
     padding: 10px 20px;
 }
