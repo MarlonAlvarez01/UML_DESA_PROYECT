@@ -25,5 +25,5 @@ FechaIngreso date,
 Habitacion int,
 
 CONSTRAINT fk_Medicos FOREIGN KEY (IdMedico) REFERENCES Medicos(IdMedico)
-
+select *from Pacient;
 );
