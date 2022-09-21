@@ -21,7 +21,7 @@ NumeroTelefonico varchar (40) not null,
 Genero varchar(40) not null,
 Direccion int,
 Ciudad int,
-FechaIngreso date,
+Fecha_Ingreso date,
 Habitacion int,
 
 CONSTRAINT fk_Medicos FOREIGN KEY (IdMedico) REFERENCES Medicos(IdMedico)
